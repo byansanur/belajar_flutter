@@ -30,6 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.0
   http: ^0.12.2
   carousel_slider: ^3.0.0
+  logger: ^0.9.4
+  cached_network_image: ^2.5.0
+  android_intent: ^0.3.7+7
 
 dev_dependencies:
   flutter_test:
